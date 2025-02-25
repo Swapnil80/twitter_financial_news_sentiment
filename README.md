@@ -42,7 +42,11 @@ cd twitter_financial_news_sentiment
 
 2️⃣ Install Dependencies
 
+Install all dependencies using pip:
 pip install -r requirements.txt
+
+If using Google Colab, run this in a cell:
+!pip install -r requirements.txt
 
 3️⃣ Open and Run the Jupyter Notebook
 
